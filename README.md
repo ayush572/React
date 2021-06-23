@@ -1,2 +1,3 @@
-# Reactjs
-### Here I have started my react journey and wants to complete it ASAP! Really excited!
+# EMOJIPEDIA APP
+## Here I have created an app, which gives different information about emojis
+## We can enter new data into the array, and it will automatically be updated inside the web browser
